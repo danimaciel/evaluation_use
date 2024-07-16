@@ -1,4 +1,4 @@
-# Systematic Review on literature about use of results of evaluation in ST&I Program and R&D Actions
+# Systematic Review on literature about use of results of evaluation in ST&I Programs and R&D Actions
 
 ## Repository Description
 This repository contains all raw data, algorithms, and mean to access full texts in pdf related to a systematic review investigation the use of evaluation results in Science & Technology (ST&I) programs and Research & Development (R&D) actions.
